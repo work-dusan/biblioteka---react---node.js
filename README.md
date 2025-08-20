@@ -34,7 +34,7 @@ Activity log – praćenje akcija korisnika i admina
 Instalacija
 
 1. Kloniraj repozitorijum
-git clone https://github.com/username/biblioteka.git
+git clone https://github.com/work-dusan/biblioteka---react---node.js.git
 cd biblioteka
 
 2. Backend
@@ -77,6 +77,8 @@ Admin panel sa pregledom i uređivanjem korisnika i knjiga
 
 Automatsko čišćenje povezanih podataka pri brisanju knjiga ili korisnika
 
-📄 Dokumentacija
 
-Detaljna dokumentacija nalazi se u fajlu 
+
+Dokumentacija:
+
+Detaljna dokumentacija nalazi se u fajlu [CS310-PZ-DusanStojiljkovic5835.docx](https://github.com/user-attachments/files/21875817/CS310-PZ-DusanStojiljkovic5835.docx)
