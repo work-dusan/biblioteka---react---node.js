@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "68a3388654c7e0ce10950eaa"
+  },
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "bookSnapshot": {
+    "id": {
+      "$oid": "68a1d2cc0e8f9a9ca098879a"
+    },
+    "title": "Quantum River of Glass",
+    "author": "Lucas Garcia",
+    "year": 1988,
+    "image": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22900%22%20viewBox%3D%220%200%20600%20900%22%3E%0A%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230ea5e9%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%3Crect%20x%3D%2230%22%20y%3D%2230%22%20width%3D%22540%22%20height%3D%22840%22%20fill%3D%22none%22%20stroke%3D%22rgba(255%2C255%2C255%2C0.35)%22%20stroke-width%3D%224%22%20rx%3D%2224%22%2F%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22180%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.9)%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-size%3D%2228%22%20letter-spacing%3D%223%22%3EBIBLIOTEKA%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22300%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-weight%3D%22700%22%20font-size%3D%2240%22%3EQuantum%20River%20of%3C%2Ftext%3E%0A%3Ctext%20x%3D%22300%22%20y%3D%22352%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-weight%3D%22700%22%20font-size%3D%2240%22%3EGlass%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22444%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2222%22%3ELucas%20Garcia%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22560%22%20y%3D%22860%22%20text-anchor%3D%22end%22%20fill%3D%22rgba(255%2C255%2C255%2C0.85)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2220%22%3E1988%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+  },
+  "status": "returned",
+  "rentedAt": {
+    "$date": "2025-08-18T14:28:22.844Z"
+  },
+  "returnedAt": {
+    "$date": "2025-08-18T14:28:33.709Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:28:22.847Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-18T14:35:28.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3389954c7e0ce10950ec7"
+  },
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "bookSnapshot": {
+    "id": {
+      "$oid": "68a1d2cc0e8f9a9ca098879a"
+    },
+    "title": "Quantum River of Glass",
+    "author": "Lucas Garcia",
+    "year": 1988,
+    "image": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22900%22%20viewBox%3D%220%200%20600%20900%22%3E%0A%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230ea5e9%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%3Crect%20x%3D%2230%22%20y%3D%2230%22%20width%3D%22540%22%20height%3D%22840%22%20fill%3D%22none%22%20stroke%3D%22rgba(255%2C255%2C255%2C0.35)%22%20stroke-width%3D%224%22%20rx%3D%2224%22%2F%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22180%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.9)%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-size%3D%2228%22%20letter-spacing%3D%223%22%3EBIBLIOTEKA%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22300%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-weight%3D%22700%22%20font-size%3D%2240%22%3EQuantum%20River%20of%3C%2Ftext%3E%0A%3Ctext%20x%3D%22300%22%20y%3D%22352%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-weight%3D%22700%22%20font-size%3D%2240%22%3EGlass%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22444%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2222%22%3ELucas%20Garcia%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22560%22%20y%3D%22860%22%20text-anchor%3D%22end%22%20fill%3D%22rgba(255%2C255%2C255%2C0.85)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2220%22%3E1988%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+  },
+  "status": "returned",
+  "rentedAt": {
+    "$date": "2025-08-18T14:28:41.493Z"
+  },
+  "returnedAt": {
+    "$date": "2025-08-18T14:35:51.663Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:28:41.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-18T14:35:51.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33d01897b8c029ce351c0"
+  },
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "bookSnapshot": {
+    "id": {
+      "$oid": "68a1d2cc0e8f9a9ca09887a0"
+    },
+    "title": "Broken Network",
+    "author": "Benjamin Rodriguez",
+    "year": 1982,
+    "image": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22900%22%20viewBox%3D%220%200%20600%20900%22%3E%0A%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230ea5e9%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%3Crect%20x%3D%2230%22%20y%3D%2230%22%20width%3D%22540%22%20height%3D%22840%22%20fill%3D%22none%22%20stroke%3D%22rgba(255%2C255%2C255%2C0.35)%22%20stroke-width%3D%224%22%20rx%3D%2224%22%2F%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22180%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.9)%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-size%3D%2228%22%20letter-spacing%3D%223%22%3EBIBLIOTEKA%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22300%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-weight%3D%22700%22%20font-size%3D%2240%22%3EBroken%20Network%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22392%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2222%22%3EBenjamin%20Rodriguez%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22560%22%20y%3D%22860%22%20text-anchor%3D%22end%22%20fill%3D%22rgba(255%2C255%2C255%2C0.85)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2220%22%3E1982%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+  },
+  "status": "book_deleted",
+  "rentedAt": {
+    "$date": "2025-08-18T14:47:29.910Z"
+  },
+  "returnedAt": {
+    "$date": "2025-08-18T14:48:42.148Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:47:29.915Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-18T14:48:42.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33d77897b8c029ce35208"
+  },
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "bookSnapshot": {
+    "id": {
+      "$oid": "68a1d2cc0e8f9a9ca09887a1"
+    },
+    "title": "Wild River",
+    "author": "Harper Williams",
+    "year": 2015,
+    "image": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22900%22%20viewBox%3D%220%200%20600%20900%22%3E%0A%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230ea5e9%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%3Crect%20x%3D%2230%22%20y%3D%2230%22%20width%3D%22540%22%20height%3D%22840%22%20fill%3D%22none%22%20stroke%3D%22rgba(255%2C255%2C255%2C0.35)%22%20stroke-width%3D%224%22%20rx%3D%2224%22%2F%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22180%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.9)%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-size%3D%2228%22%20letter-spacing%3D%223%22%3EBIBLIOTEKA%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22300%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-weight%3D%22700%22%20font-size%3D%2240%22%3EWild%20River%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22392%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2222%22%3EHarper%20Williams%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22560%22%20y%3D%22860%22%20text-anchor%3D%22end%22%20fill%3D%22rgba(255%2C255%2C255%2C0.85)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2220%22%3E2015%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+  },
+  "status": "book_deleted",
+  "rentedAt": {
+    "$date": "2025-08-18T14:49:27.705Z"
+  },
+  "returnedAt": {
+    "$date": "2025-08-18T15:11:59.822Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:49:27.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-18T15:11:59.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a344d9340cbe2576948f60"
+  },
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "bookId": {
+    "$oid": "68a1d2cc0e8f9a9ca09887a2"
+  },
+  "bookSnapshot": {
+    "id": {
+      "$oid": "68a1d2cc0e8f9a9ca09887a2"
+    },
+    "title": "Electric Chronicle",
+    "author": "Avery Lopez",
+    "year": 2016,
+    "image": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22900%22%20viewBox%3D%220%200%20600%20900%22%3E%0A%20%20%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230ea5e9%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22url(%23g)%22%2F%3E%0A%20%20%3Crect%20x%3D%2230%22%20y%3D%2230%22%20width%3D%22540%22%20height%3D%22840%22%20fill%3D%22none%22%20stroke%3D%22rgba(255%2C255%2C255%2C0.35)%22%20stroke-width%3D%224%22%20rx%3D%2224%22%2F%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22180%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.9)%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-size%3D%2228%22%20letter-spacing%3D%223%22%3EBIBLIOTEKA%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22300%22%20text-anchor%3D%22middle%22%20fill%3D%22%23fff%22%20font-family%3D%22Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%22%20font-weight%3D%22700%22%20font-size%3D%2240%22%3EElectric%20Chronicle%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22300%22%20y%3D%22392%22%20text-anchor%3D%22middle%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2222%22%3EAvery%20Lopez%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22560%22%20y%3D%22860%22%20text-anchor%3D%22end%22%20fill%3D%22rgba(255%2C255%2C255%2C0.85)%22%20font-family%3D%22Inter%2CArial%2Csans-serif%22%20font-size%3D%2220%22%3E2016%3C%2Ftext%3E%0A%3C%2Fsvg%3E"
+  },
+  "status": "returned",
+  "rentedAt": {
+    "$date": "2025-08-18T15:20:57.640Z"
+  },
+  "returnedAt": {
+    "$date": "2025-08-18T15:21:04.030Z"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T15:20:57.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-18T15:21:04.030Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,4040 @@
+[{
+  "_id": {
+    "$oid": "68a1c80b0d4ffeb83ed32daa"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8bc"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T12:16:11.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1c8150d4ffeb83ed32db9"
+  },
+  "type": "ORDER_RETURNED",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a0a6b17364dc84e47ef8bc"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-17T12:16:21.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1c81a0d4ffeb83ed32dc7"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8bd"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T12:16:26.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ce200d4ffeb83ed32e26"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T12:42:08.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d1090d4ffeb83ed32e6b"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T12:54:33.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d1200d4ffeb83ed32e8d"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8bc"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T12:54:56.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d12a0d4ffeb83ed32e9c"
+  },
+  "type": "ORDER_RETURNED",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a0a6b17364dc84e47ef8bd"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-17T12:55:06.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d2fb0d4ffeb83ed32ebc"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879f"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:02:51.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d37e0d4ffeb83ed32ecb"
+  },
+  "type": "ORDER_RETURNED",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca098879f"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:05:02.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d6250d4ffeb83ed32eef"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:16:21.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d7220d4ffeb83ed32f5d"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:20:34.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d9e60d4ffeb83ed32f6c"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:32:22.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d9eb0d4ffeb83ed32f73"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8bd"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:32:27.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d9ef0d4ffeb83ed32f76"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8bc"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:32:31.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1d9f50d4ffeb83ed32f79"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8be"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:32:37.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da010d4ffeb83ed32f7c"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d9"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:32:49.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da050d4ffeb83ed32f7f"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a9"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:32:53.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da060d4ffeb83ed32f82"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e9"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:32:54.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da0d0d4ffeb83ed32f85"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887af"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:33:01.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da110d4ffeb83ed32f88"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b1"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:33:05.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da140d4ffeb83ed32f8b"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d7"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:33:08.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da1f0d4ffeb83ed32f8e"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887bf"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:33:19.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da2d0d4ffeb83ed32f91"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b0"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:33:33.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da350d4ffeb83ed32f9c"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d1"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:33:41.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da360d4ffeb83ed32fa5"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d2"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:33:42.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da3c0d4ffeb83ed32fb2"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d8"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:33:48.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da4e0d4ffeb83ed32fc3"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e8"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:34:06.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da5a0d4ffeb83ed32fcc"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f2"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:34:18.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da610d4ffeb83ed32fcf"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c6"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:34:25.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da640d4ffeb83ed32fd2"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ae"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:34:28.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da6d0d4ffeb83ed32fd5"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887fb"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:34:37.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da770d4ffeb83ed32fd8"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988804"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:34:47.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1da7f0d4ffeb83ed32fdb"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098880b"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:34:55.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1de7a0d4ffeb83ed32fe7"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:51:54.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1de800d4ffeb83ed32fee"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e5"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:52:00.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1de970d4ffeb83ed32ff1"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ed"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:52:23.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1de990d4ffeb83ed32ff4"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c5"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:52:25.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1dea30d4ffeb83ed32ff7"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c9"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:52:35.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1debc0d4ffeb83ed32ffa"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a1"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:00.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1debd0d4ffeb83ed32ffd"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f9"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:01.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1debf0d4ffeb83ed33000"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a3"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:03.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1dec90d4ffeb83ed33003"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887cd"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:13.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1decb0d4ffeb83ed33006"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887cf"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:15.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ded90d4ffeb83ed33009"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a7"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:29.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1dedb0d4ffeb83ed3300c"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887df"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:31.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1dedd0d4ffeb83ed3300f"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887bb"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:33.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1deeb0d4ffeb83ed33012"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e7"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:47.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1deed0d4ffeb83ed33015"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887eb"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:49.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1def60d4ffeb83ed33018"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ef"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:58.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1def70d4ffeb83ed3301b"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c3"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:53:59.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1def90d4ffeb83ed3301e"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f3"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:54:01.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1df010d4ffeb83ed33021"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f7"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:54:09.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1df050d4ffeb83ed33024"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c7"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:54:13.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1df110d4ffeb83ed33027"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a2"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:54:25.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1df220d4ffeb83ed3302a"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879c"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:54:42.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1df480d4ffeb83ed3302d"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b3"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:55:20.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e0240d4ffeb83ed33036"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b6"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:00.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e02c0d4ffeb83ed33039"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887da"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:08.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e02d0d4ffeb83ed3303c"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b8"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:09.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e0330d4ffeb83ed33045"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879e"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:15.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e0350d4ffeb83ed33048"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887de"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:17.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e0360d4ffeb83ed3304d"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ba"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:18.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e0380d4ffeb83ed33054"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e0"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:20.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e03a0d4ffeb83ed33057"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a8"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:22.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e03c0d4ffeb83ed3305a"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e2"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:24.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e04d0d4ffeb83ed3306f"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879a"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:41.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e0550d4ffeb83ed33072"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887be"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:49.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e05c0d4ffeb83ed33075"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ea"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T13:59:56.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1e2c30d4ffeb83ed3307f"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:10:11.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1eccb0d4ffeb83ed33086"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:52:59.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1eccf0d4ffeb83ed3308d"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887dd"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:03.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ecd10d4ffeb83ed33090"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887bd"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:05.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ecd30d4ffeb83ed33093"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ad"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:07.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ecd50d4ffeb83ed33096"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f5"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:09.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ecd70d4ffeb83ed33099"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b9"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:11.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ecd90d4ffeb83ed3309c"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e1"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:13.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ecdc0d4ffeb83ed3309f"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c1"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:16.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ecde0d4ffeb83ed330a2"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f1"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:18.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ece00d4ffeb83ed330a5"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887cb"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:20.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ece20d4ffeb83ed330a8"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b7"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:22.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ece40d4ffeb83ed330ab"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887db"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:24.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ece60d4ffeb83ed330ae"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e3"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:26.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ece80d4ffeb83ed330b1"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879f"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:28.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ecea0d4ffeb83ed330b4"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ab"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:30.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1eceb0d4ffeb83ed330b7"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879b"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:31.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1eced0d4ffeb83ed330ba"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887fa"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:33.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ecee0d4ffeb83ed330bd"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ca"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:53:34.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ed820d4ffeb83ed330c0"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:56:02.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ed8a0d4ffeb83ed330c7"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887cc"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:56:10.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1ed920d4ffeb83ed330ca"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ce"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T14:56:18.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1f7870d4ffeb83ed330f4"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8be"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T15:38:47.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a1f7d90d4ffeb83ed3310b"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-17T15:40:09.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32eb8c6730bb1fe42571b"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:46:32.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32ec6c6730bb1fe425722"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8bd"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:46:46.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32ed5c6730bb1fe425725"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8bc"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:47:01.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32ee2c6730bb1fe425728"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8be"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:47:14.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32eecc6730bb1fe42572b"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e5"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:47:24.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32ef6c6730bb1fe42572e"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887dd"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:47:34.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f1164fbe7f7019eddf4"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:48:01.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f1c64fbe7f7019eddfb"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8bd"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:48:12.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f2864fbe7f7019eddfe"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8bc"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:48:24.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f3464fbe7f7019ede01"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a0a6b17364dc84e47ef8be"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:48:36.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f3d64fbe7f7019ede04"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e5"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:48:45.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f4464fbe7f7019ede0b"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887dd"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:48:52.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f4c64fbe7f7019ede16"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887bd"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:49:00.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f5764fbe7f7019ede1d"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ad"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:49:11.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f6264fbe7f7019ede20"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ed"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:49:22.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f6b64fbe7f7019ede23"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c5"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:49:31.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f7764fbe7f7019ede2a"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f5"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:49:43.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f8264fbe7f7019ede2d"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c9"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:49:54.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32f9464fbe7f7019ede36"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d9"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:50:12.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fa164fbe7f7019ede39"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b9"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:50:25.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fa964fbe7f7019ede3c"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e1"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:50:33.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fb264fbe7f7019ede45"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a9"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:50:42.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fbb64fbe7f7019ede4a"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e9"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:50:51.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fc364fbe7f7019ede4f"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c1"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:50:59.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fce64fbe7f7019ede58"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f1"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:51:10.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fdb64fbe7f7019ede63"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a1"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:51:23.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fe364fbe7f7019ede68"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f9"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:51:31.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fea64fbe7f7019ede6b"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887af"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:51:38.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32ff364fbe7f7019ede6e"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a3"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:51:47.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a32fff64fbe7f7019ede71"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887cb"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:51:59.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3300964fbe7f7019ede74"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b1"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:52:09.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3301264fbe7f7019ede77"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887cd"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:52:18.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3301964fbe7f7019ede7a"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887cf"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:52:25.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3302764fbe7f7019ede7d"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d7"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:52:39.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3303064fbe7f7019ede84"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b7"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:52:48.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3303a64fbe7f7019ede87"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887db"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:52:58.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3303d64fbe7f7019ede8a"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0f532588ddde3d70adcd4"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:53:01.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3304564fbe7f7019ede99"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a7"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:53:09.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3305364fbe7f7019edeb4"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887df"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:53:23.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3306264fbe7f7019edebb"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:53:38.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3306664fbe7f7019edec2"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887bb"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:53:42.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3307264fbe7f7019edecd"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e3"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:53:54.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3307a64fbe7f7019ededc"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879f"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:54:02.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3308264fbe7f7019edee3"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e7"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:54:10.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3308a64fbe7f7019edef6"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887bf"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:54:18.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3309264fbe7f7019edefd"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887eb"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:54:26.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3309a64fbe7f7019edf00"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ab"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:54:34.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330a164fbe7f7019edf03"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ef"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:54:41.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330ab64fbe7f7019edf06"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c3"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:54:51.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330b864fbe7f7019edf09"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f3"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:55:04.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330c164fbe7f7019edf10"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879b"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:55:13.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330c764fbe7f7019edf13"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f7"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:55:19.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330ce64fbe7f7019edf16"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c7"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:55:26.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330d564fbe7f7019edf1c"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887fa"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:55:33.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330de64fbe7f7019edf23"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a2"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:55:42.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330e464fbe7f7019edf27"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ca"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:55:48.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330ea64fbe7f7019edf2b"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b0"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:55:54.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330f364fbe7f7019edf2f"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887cc"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:56:03.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a330fc64fbe7f7019edf32"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879c"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:56:12.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3310a64fbe7f7019edf35"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ce"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:56:26.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3311564fbe7f7019edf40"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b2"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:56:37.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3311f64fbe7f7019edf44"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a4"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:56:47.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3312a64fbe7f7019edf47"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d0"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:56:58.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3313964fbe7f7019edf4a"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b3"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:57:13.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3314664fbe7f7019edf4d"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d1"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:57:26.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3315564fbe7f7019edf51"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d2"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:57:41.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3316364fbe7f7019edf54"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d6"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:57:55.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3317164fbe7f7019edf57"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b6"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:58:09.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3317f64fbe7f7019edf5b"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d8"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:58:23.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3318e64fbe7f7019edf62"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a6"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:58:38.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3319d64fbe7f7019edf65"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887da"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:58:53.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a331ab64fbe7f7019edf68"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b8"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:59:07.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a331b664fbe7f7019edf6b"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887dc"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:59:18.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a331c364fbe7f7019edf6e"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879e"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:59:31.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a331d364fbe7f7019edf71"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887de"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T13:59:47.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a331e164fbe7f7019edf74"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ba"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:00:01.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a331f364fbe7f7019edf77"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e0"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:00:19.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3320164fbe7f7019edf7a"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a8"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:00:33.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3321064fbe7f7019edf7d"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e2"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:00:48.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3321d64fbe7f7019edf80"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887bc"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:01:01.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3322564fbe7f7019edf83"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e4"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:01:09.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3322d64fbe7f7019edf86"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879a"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:01:17.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3323564fbe7f7019edf89"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e6"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:01:25.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3323c64fbe7f7019edf8c"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887be"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:01:32.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3324464fbe7f7019edf8f"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887e8"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:01:40.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3324a64fbe7f7019edf92"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887aa"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:01:46.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3325364fbe7f7019edf95"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ea"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:01:55.794Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3325864fbe7f7019edf98"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c0"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:00.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3325c64fbe7f7019edf9b"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ec"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:04.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3326264fbe7f7019edf9e"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a0"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:10.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3326664fbe7f7019edfa1"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ee"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:14.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3326a64fbe7f7019edfa4"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c2"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:18.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3326e64fbe7f7019edfa7"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f0"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:22.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3327364fbe7f7019edfaa"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ac"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:27.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3327964fbe7f7019edfad"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f2"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:33.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3328064fbe7f7019edfb0"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c4"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:40.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3328764fbe7f7019edfb3"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f4"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:47.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3329064fbe7f7019edfb6"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b4"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:02:56.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3329964fbe7f7019edfb9"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d3"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:03:05.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a332a264fbe7f7019edfbc"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f6"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:03:14.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a332ab64fbe7f7019edfbf"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c6"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:03:23.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a332b664fbe7f7019edfc2"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887f8"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:03:34.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a332c264fbe7f7019edfc5"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ae"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:03:46.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a332cc64fbe7f7019edfc8"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887c8"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:03:56.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a332d964fbe7f7019edfcb"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d4"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:04:09.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a332e764fbe7f7019edfce"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879d"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:04:23.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a332f364fbe7f7019edfd1"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a5"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:04:35.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3330064fbe7f7019edfd4"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887b5"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:04:48.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3330664fbe7f7019edfd7"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887d5"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:04:54.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3331864fbe7f7019edfda"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887fb"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:05:12.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3332664fbe7f7019edfdd"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887fc"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:05:26.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3333264fbe7f7019edfe0"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887fd"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:05:38.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3333d64fbe7f7019edfe3"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887fe"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:05:49.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3334c64fbe7f7019edfe6"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887ff"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:06:04.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3335964fbe7f7019edfe9"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988800"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:06:17.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3336664fbe7f7019edfec"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988801"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:06:30.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333741e670cce92aad321"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988802"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:06:44.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3337e1e670cce92aad324"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988803"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:06:54.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333881e670cce92aad327"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988804"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:07:04.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333921e670cce92aad32a"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988805"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:07:14.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3339e1e670cce92aad32d"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988806"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:07:26.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333a91e670cce92aad330"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988807"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:07:37.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333b49ecc41ab7b94c390"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988808"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:07:48.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333c19ecc41ab7b94c393"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988809"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:08:01.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333ca9ecc41ab7b94c396"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:08:10.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333cf9ecc41ab7b94c3a1"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098880a"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:08:15.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333dc9ecc41ab7b94c3ab"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098880b"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:08:28.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333ec9ecc41ab7b94c3b1"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098880c"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:08:44.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333fe9ecc41ab7b94c3b4"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098880d"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:09:02.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a334039ecc41ab7b94c3b7"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:09:07.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3340f9ecc41ab7b94c3be"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098880e"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:09:19.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3341e9ecc41ab7b94c3c4"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879e"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:09:34.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a334209ecc41ab7b94c3c7"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098880f"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:09:36.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3342f9ecc41ab7b94c3d3"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988810"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:09:51.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a334359ecc41ab7b94c3d6"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:09:57.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a334439ecc41ab7b94c3e1"
+  },
+  "type": "BOOK_DELETED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879e"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:10:11.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a334459ecc41ab7b94c3e4"
+  },
+  "type": "BOOK_UPDATED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca0988811"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:10:13.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a334779ecc41ab7b94c3f1"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:11:03.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a334829ecc41ab7b94c402"
+  },
+  "type": "ORDER_RETURNED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca098879e"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:11:14.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3386c54c7e0ce10950e8c"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:27:56.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3388654c7e0ce10950eac"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca098879a"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:28:22.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3389154c7e0ce10950eba"
+  },
+  "type": "ORDER_RETURNED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca098879a"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:28:33.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a3389954c7e0ce10950ec9"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca098879a"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:28:41.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a338aa54c7e0ce10950ecd"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:28:58.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33a30ddf3abb1c8584728"
+  },
+  "type": "BOOK_DELETED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca098879a"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:35:28.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33a3fddf3abb1c858472b"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:35:43.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33a47ddf3abb1c858473b"
+  },
+  "type": "ORDER_RETURNED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca098879a"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:35:51.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33d01897b8c029ce351c2"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca09887a0"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:47:29.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33d41897b8c029ce351de"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:48:33.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33d4a897b8c029ce351ed"
+  },
+  "type": "BOOK_DELETED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a0"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:48:42.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33d55897b8c029ce351f4"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:48:53.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a33d77897b8c029ce3520a"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca09887a1"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-18T14:49:27.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a342b7340cbe2576948ef0"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "email": "admin@biblioteka.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T15:11:51.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a342bf340cbe2576948eff"
+  },
+  "type": "BOOK_DELETED",
+  "userId": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "meta": {
+    "bookId": "68a1d2cc0e8f9a9ca09887a1"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T15:11:59.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a342e9340cbe2576948f1a"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T15:12:41.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a344d0340cbe2576948f4c"
+  },
+  "type": "USER_LOGIN",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "email": "marko@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T15:20:48.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a344d9340cbe2576948f62"
+  },
+  "type": "ORDER_CREATED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca09887a2"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-18T15:20:57.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a344e0340cbe2576948f73"
+  },
+  "type": "ORDER_RETURNED",
+  "userId": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "meta": {
+    "bookId": {
+      "$oid": "68a1d2cc0e8f9a9ca09887a2"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-18T15:21:04.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a34532340cbe2576948f7e"
+  },
+  "type": "USER_REGISTERED",
+  "userId": {
+    "$oid": "68a34532340cbe2576948f7c"
+  },
+  "meta": {
+    "email": "stefan@email.com"
+  },
+  "createdAt": {
+    "$date": "2025-08-18T15:22:26.092Z"
+  },
+  "__v": 0
+}]

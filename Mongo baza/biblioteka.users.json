@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "68a0a6b17364dc84e47ef8b9"
+  },
+  "name": "Admin",
+  "email": "admin@biblioteka.com",
+  "password": "$2b$10$Qv2as74OkZQ3pPJkNHA3Pe2voY1SHSzj2yMRbeVPas1xdQg.u4Anm",
+  "role": "admin",
+  "favorites": [],
+  "createdAt": {
+    "$date": "2025-08-16T15:41:37.657Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T15:41:37.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a0d9f5588ddde3d70adc4f"
+  },
+  "name": "Dusan Stoiljkovic",
+  "email": "dusan.stojiljkovic2208@gmail.com",
+  "password": "DusanSt",
+  "role": "user",
+  "favorites": [],
+  "createdAt": {
+    "$date": "2025-08-16T19:20:21.738Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T19:56:27.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a333eb9ecc41ab7b94c3ae"
+  },
+  "name": "Marko Markovic",
+  "email": "marko@email.com",
+  "password": "$2b$10$0wr5LOKh4wg0XiJHIN9bhezicNzXbhK2p2WPmlypvglC8TZb75era",
+  "role": "user",
+  "favorites": [
+    {
+      "$oid": "68a1d2cc0e8f9a9ca098879e"
+    },
+    {
+      "$oid": "68a1d2cc0e8f9a9ca098879a"
+    },
+    {
+      "$oid": "68a1d2cc0e8f9a9ca09887a0"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-08-18T14:08:43.186Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-18T15:21:02.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a34532340cbe2576948f7c"
+  },
+  "name": "Stefan Stevic",
+  "email": "stefan@email.com",
+  "password": "$2b$10$2DDfnFdE5TO41/ka/F3eB.SoPVOq1JR9Lr7SPIufkyh40M0Ie9BUa",
+  "role": "user",
+  "favorites": [],
+  "createdAt": {
+    "$date": "2025-08-18T15:22:26.086Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-18T15:22:39.840Z"
+  },
+  "__v": 0
+}]
